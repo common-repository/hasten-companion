@@ -1,0 +1,32 @@
+li#accordion-panel-hc_team_options > h3.accordion-section-title:before{
+     content: "\f307";
+ }
+
+li#accordion-section-hc_team_section > h3.accordion-section-title:before{
+    content: "\f177";
+}
+
+li#accordion-section-rl_teams_additional_section_1 > h3.accordion-section-title:before{
+    content: "\f338";
+}
+li#accordion-section-rl_teams_additional_section_2 > h3.accordion-section-title:before{
+    content: "\f338";
+}
+li#accordion-section-rl_teams_additional_section_3 > h3.accordion-section-title:before{
+    content: "\f338";
+}
+li#accordion-section-rl_teams_additional_section_4 > h3.accordion-section-title:before{
+    content: "\f338";
+}
+li#accordion-section-hc_cta_section > h3.accordion-section-title:before{
+     content: "\f488";
+ }
+li#accordion-section-hc_bottom_shortcode > h3.accordion-section-title:before{
+     content: "\f154";
+ }
+li#accordion-section-service_options > h3.accordion-section-title:before{
+     content: "\f313";
+ }
+li#accordion-section-hc_contact_section > h3.accordion-section-title:before{
+    content: "\f230";
+}

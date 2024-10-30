@@ -1,0 +1,203 @@
+# PRIDE THEMES.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <INFO@PRIDETHEMES.COM>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-26 09:49+0545\n"
+"PO-Revision-Date: 2018-04-26 HO:MI+ZONE\n"
+"Last-Translator: PRIDE THEMES <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/customizer/additional-customizer.php:13
+msgid "Show Contact Section In Homepage ?"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:30
+msgid "Contact Title"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:48
+msgid "Contact Description"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:67
+msgid "Form Title"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:85
+msgid "Form Description"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:102
+msgid "Form Shortcode"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:119
+msgid "Send Mail To :"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:120
+msgid "Enter Mail Id"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:138
+msgid "Address"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:156
+msgid "Phone"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:173
+msgid "Office No."
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:190
+msgid "Email"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:207
+msgid "Fax"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:229
+msgid "Add Google Map API Key"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:230
+msgid "Get Map API Key"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:230
+msgid "From Here"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:249
+msgid "Map Latitude"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:267
+msgid "Map Longitude"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:284
+#: includes/customizer/theme-options.php:98
+msgid "Section Title"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:297
+#: includes/customizer/theme-options.php:114
+msgid "Section Description"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:310
+#: includes/customizer/theme-options.php:62
+msgid "Shortcode"
+msgstr ""
+
+#: includes/customizer/additional-customizer.php:311
+msgid "Paste Shortcode Here."
+msgstr ""
+
+#: includes/customizer/cta-options.php:15
+msgid "Show Call To Action Section In Homepage? "
+msgstr ""
+
+#: includes/customizer/cta-options.php:31
+msgid "Title"
+msgstr ""
+
+#: includes/customizer/cta-options.php:46
+msgid "Description"
+msgstr ""
+
+#: includes/customizer/cta-options.php:62
+msgid "Button Text"
+msgstr ""
+
+#: includes/customizer/cta-options.php:77
+msgid "Button Link"
+msgstr ""
+
+#: includes/customizer/cta-options.php:94
+msgid "Add Background Image"
+msgstr ""
+
+#: includes/customizer/cta-options.php:112
+msgid "Parallax Effect For Background Image"
+msgstr ""
+
+#: includes/customizer/cta-options.php:133
+msgid "Add Background Color"
+msgstr ""
+
+#: includes/customizer/theme-options.php:17
+msgid "Theme Options"
+msgstr ""
+
+#: includes/customizer/theme-options.php:26
+msgid "Team Options"
+msgstr ""
+
+#: includes/customizer/theme-options.php:35
+msgid "Show Team Section In Homepage"
+msgstr ""
+
+#: includes/customizer/theme-options.php:45
+msgid "Contact Section"
+msgstr ""
+
+#: includes/customizer/theme-options.php:53
+msgid "Call To Action Option"
+msgstr ""
+
+#: includes/customizer/theme-options.php:81
+msgid "Show Team Section In Homepage? "
+msgstr ""
+
+#: includes/customizer/theme-options.php:126
+msgid "Team "
+msgstr ""
+
+#: includes/customizer/theme-options.php:142
+msgid "Add Image"
+msgstr ""
+
+#: includes/customizer/theme-options.php:157
+msgid "Team Title"
+msgstr ""
+
+#: includes/customizer/theme-options.php:171
+msgid "Team Designation"
+msgstr ""
+
+#: includes/customizer/theme-options.php:185
+msgid "Facebook Link"
+msgstr ""
+
+#: includes/customizer/theme-options.php:199
+msgid "Twitter Link"
+msgstr ""
+
+#: includes/customizer/theme-options.php:213
+msgid "Google Plus Link"
+msgstr ""
+
+#: includes/customizer/theme-options.php:227
+msgid "Linked In Link"
+msgstr ""
+
+#: public/class-hasten-companion-public.php:116
+msgid ""
+"Please note that the <strong>Hasten Companion</strong> plugin is meant to be "
+"used only with the Hasten Lite Theme.</p>"
+msgstr ""
